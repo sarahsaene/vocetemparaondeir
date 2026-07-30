@@ -1,0 +1,8 @@
+{
+  "name": "Remix Você Tem Para Onde Ir",
+  "description": "Campanha de comunicação para divulgar a rede de casas abrigo do Brasil e proteger vidas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
